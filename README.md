@@ -1,3 +1,7 @@
+1. The first step is to set up an account from the chatengine library and create a chat room.
+2. You enter the created Chat room, copy Project:ID, open the code file, enter App.js and paste your own Chat room ID into Project:ID.
+3. Add a user to the chat room you created and log in with it to continue the application. If you want to chat with more users, you can add a few more users.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
